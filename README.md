@@ -1,3 +1,5 @@
+Basic Blog app created using a tutorial up to this commit. All following work is my own.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
